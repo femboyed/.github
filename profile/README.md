@@ -6,3 +6,6 @@ You can apply to join the org on our discord server https://discord.gg/pinned/ o
 ------------------------------
 
 Every repo here is free for personal use, if you plan on publishing any of our stuff credit us.
+
+-------------------------------
+You can view/use our discussions to talk about everything https://github.com/orgs/femboyed/discussions
